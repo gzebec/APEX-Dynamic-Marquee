@@ -1,7 +1,7 @@
 {
   "name" : "Apex Dynamic Marquee",
   "version" : "1.0",
-  "description" : "This plugin is used to show dynamic marquee tags.",
+  "description" : "This plugin is used to show dynamic marquee tags. Special thanks to Satish Yadav on idea and most of work.",
   "keywords" : ["oracle", "apex", "marquee"],
   "homepage" : "https://github.com/gzebec/APEX-Dynamic-Marquee",
   "bugs" : {
