@@ -1,7 +1,7 @@
 {
   "name" : "Apex Dynamic Marquee",
   "version" : "1.0",
-  "description" : "This plugin is used to show dynamic marquee tags. Login for Demo is: user-demo / 123456@",
+  "description" : "This plugin is used to show dynamic marquee tags.",
   "keywords" : ["oracle", "apex", "marquee"],
   "homepage" : "https://github.com/gzebec/APEX-Dynamic-Marquee",
   "bugs" : {
@@ -12,9 +12,9 @@
   "author" : {
     "name" : "Goran Zebec",
     "email" : "gzebec@gmail.com",
-    "url" : ""
+    "url" : "https://apex.oracle.com/pls/apex/f?p=99752:1"
     "twitter" : "gzebec"
-    "donationUrl" : ""
+    "donationUrl" : "#"
   },
   "repository" : {
     "type" : "git",
