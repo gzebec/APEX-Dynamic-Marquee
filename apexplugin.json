@@ -27,7 +27,7 @@
         "internalName" : "COM.ORACLE.APEX.DYNAMIC_MARQUEE",
         "type" : "region",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=99752:1",
-        "previewImage" : "https://github.com/gzebec/APEX-Dynamic-Marquee/blob/master/preview.png"
+        "previewImage" : "https://raw.githubusercontent.com/gzebec/APEX-Dynamic-Marquee/master/preview.png"
       }
     }
   }
